@@ -90,11 +90,14 @@ h1, .h1 {
     font-size: 6rem;
   }
 }
-
+bg-primary {
+	background-color: # {0010c2!important;
+	background-image:url(../assets/img/45-degree-fabric-light (2));
+	}	
 h2, .h2 {
   font-size: calc(1.475rem + 2.7vw);
 }
-@media (min-width: 1200px) {
+@media (min-width: 1200px) 
   h2, .h2 {
     font-size: 3.5rem;
   }
